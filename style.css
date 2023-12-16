@@ -17,7 +17,7 @@
   }
   
   .logo {
-    color: var(--color-white);
+    color: #060707;
     font-size: 30px;
   }
   
@@ -26,7 +26,7 @@
   }
   
   .menu-bar {
-    background-color: var(--color-black);
+    background-color: #060707;
     height: 80px;
     width: 100%;
     display: flex;
